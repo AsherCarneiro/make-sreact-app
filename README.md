@@ -36,7 +36,6 @@ npx make-sreact-app my-app --ts
 
 ## Run the app locally
 
-Use:
 ```
 npm start
 ```
